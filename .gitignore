@@ -1,2 +1,5 @@
-/node_modules/
-/.idea
+.idea
+*.swp
+.DS_Store
+.vscode/
+/node_modules
