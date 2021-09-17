@@ -1,3 +1,5 @@
+# *** MOVED TO GITLAB ***
+
 # Asynchronous Javascript Assignment Solution
 
 Assignment repo: [async_js_assignment](https://github.com/Opal-teaching/async_js_assignment).
